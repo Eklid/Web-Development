@@ -1,0 +1,112 @@
+.navbar {
+  display: flex;
+  background-color: black;
+  padding: 10px;
+  justify-content: space-between;
+}
+.sub-conatiner {
+  display: flex;
+}
+.red-bg {
+  text-decoration: none;
+  background-color: black;
+  color: white;
+  font-weight: bolder;
+  font-family: monospace;
+  font-size: large;
+  margin: 0 10px;
+  padding: 3px 10px;
+}
+#link {
+  color: white;
+  text-decoration: none;
+}
+#eklid {
+  color: green;
+  text-decoration: none;
+  background-color: white;
+  padding: 5px;
+  margin: 0 10px;
+  border: 1px solid green;
+  border-radius: 5px;
+}
+#klement {
+  color: white;
+  text-decoration: none;
+  background-color: rgb(156, 36, 36);
+  padding: 5px;
+  margin: 0 10px;
+  border-radius: 5px;
+}
+
+.navbar-1 {
+  display: flex;
+  background-color: rgb(194, 22, 194);
+  padding: 10px;
+  justify-content: space-between;
+}
+.red-bg1 {
+  text-decoration: none;
+  background-color: rgb(194, 22, 194);
+  color: white;
+  font-weight: bolder;
+  font-family: monospace;
+  font-size: large;
+  margin: 0 10px;
+  padding: 3px 10px;
+}
+#link1 {
+  color: white;
+  text-decoration: none;
+}
+
+.navbar-2 {
+  display: flex;
+  background-color: rgb(99, 180, 99);
+  padding: 10px;
+  justify-content: space-between;
+}
+.red-bg2 {
+  text-decoration: none;
+  background-color: rgb(99, 180, 99);
+  color: white;
+  font-weight: bolder;
+  font-family: monospace;
+  font-size: large;
+  margin: 0 10px;
+  padding: 3px 10px;
+}
+#signin {
+  text-decoration: none;
+  color: white;
+  background-color: purple;
+  padding: 5px;
+  margin: 0 10px;
+  border-radius: 5px;
+}
+#link2 {
+  color: white;
+  text-decoration: none;
+}
+
+.navbar-3 {
+  display: flex;
+  background-color: rgb(223, 30, 136);
+  padding: 10px;
+  justify-content: space-between;
+}
+
+.red-bg3 {
+  text-decoration: none;
+  background-color: rgb(223, 30, 136);
+  color: white;
+  font-weight: bolder;
+  font-family: monospace;
+  font-size: large;
+  margin: 0 10px;
+  padding: 3px 10px;
+}
+#link3 {
+  color: white;
+  text-decoration: none;
+}

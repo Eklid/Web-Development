@@ -1,0 +1,41 @@
+.green-group {
+  color: silver;
+  background-color: green;
+  padding: 10px 5px;
+}
+.red-group {
+  color: silver;
+  background-color: red;
+  padding: 10px 5px;
+}
+
+img {
+  width: 300px;
+  height: 300px;
+}
+
+#active-link {
+  border: 2px solid green;
+}
+
+#negative-title {
+  background-color: black;
+  color: white;
+  padding: 6px 10px;
+}
+.orange-group {
+  background-color: tomato;
+  color: white;
+  padding: 6px 10px;
+}
+
+.yellow-group {
+  color: yellow;
+}
+#purple {
+  color: purple;
+}
+
+body {
+  background-color: #7f7f7f;
+}

@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+}
+#box-1 {
+  display: inline-block;
+  background-color: blueviolet;
+  width: 20%;
+  height: 10%;
+  margin: 0;
+}
+#box-2 {
+  display: inline-block;
+  background-color: chocolate;
+  width: 79.5%;
+  height: 10%;
+  margin: 0;
+}
+#box-3 {
+  display: inline-block;
+  background-color: darkgoldenrod;
+  width: 20%;
+  height: 90%;
+}
+#box-4 {
+  display: inline-block;
+  background-color: blue;
+  width: 79.5%;
+  height: 90%;
+}

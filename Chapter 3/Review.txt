@@ -1,0 +1,27 @@
+1.Sizing(Permasat)
+    width: 20px;
+    height: 20px;
+
+    a.Block elements
+        a1.Block elements e ze te gjithe width-in(gjeresia) e rreshtit
+        a2.Mund ti rregullojme width dhe height
+        a3.Shtyn next element to next row
+    b.Inline elements ze aq hapsire sa i duhet
+        b1.Inline nuk e ze te gjithe hapsiren e rreshtit    
+        b2.Nuk mund ti rregullojm width height
+        b3.Nuk e shtyn next element to next row
+    c.Inline-Block
+        c1. Nuk e shtyn next element to next row(inline)
+        c2. Mund ti rregullojme width dhe height(block)
+
+    d.Some inline Elements
+        <a> <span> <img>
+    e.Some block elements
+        <div> <h1> <p>
+        
+2.Sizing units(njesite e matjes)
+    a. pixel (px)
+    b. percentage(%)
+        b1.duhet qe elementi siper(parent) te kete width/height
+    c. vw/vh (view Width/ view Height)
+        c1. gjeresia ose gjatesia e diraters se google chromit

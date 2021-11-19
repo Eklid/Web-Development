@@ -1,0 +1,38 @@
+Html is the language of Tags
+
+Top Tags and their attributes:
+
+    0. <h1> - <h6> for heading 
+    1. <p> for paragraph
+    2. <a> for anchor(links)    [href="https://www.google.com"]
+    3. <img> for images         [src="arrow.png", alt="Image not found", width = "100px", height = "100px"]
+
+Webiste perbehet nga disa WebPage               [Liber me shume faqe]
+
+Webpage eshte nje faqe e vetme e Websitit       [Faqe e librit]
+
+Tagu <a> perdoret per tu zhvendosur:
+    1) Webiste -> Webiste [website jone shkojme ne google.com]
+    2) Brenda te njejtit Website ne faqe te ndryshme [Nga Faqa Home -> Faqa About]
+    3) Brenda te njejtes Webpage(faqe) ne pjese te ndyshme te faqes [nga main section -> footer section]
+
+Attributes
+
+    1) I japin info shtes tagut
+    2) psh: atributi href i tregon tagut <a> se ku duhet te shkoje
+
+Keyboard tips and tricks
+    1) For jumping from word to word [CTRL + arrows]
+    2) For selecting                 [SHIFT + arrows]
+    3) For fast selection            [CTRL+SHIFT + arrows]
+    3.5) Select all                  [CTRL + A]
+    4) Copy                          [CTRL + C]
+    5) Cut                           [CTRL + X]
+    6) Paste                         [CTRL + V]
+    7) Undo                          [CTRL + Z]
+    8) Redo                          [CTRL + Y]
+Pyetje
+    Cfare eshte HTML?
+    Pse i perdorim taget?
+    Disa tage kryesore.
+    Per cfare perdoren attributes?

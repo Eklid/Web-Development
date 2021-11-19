@@ -1,0 +1,21 @@
+.white-group {
+  color: white;
+  background-color: green;
+}
+
+.yellow-group {
+  color: black;
+  background-color: yellow;
+}
+
+.red-group {
+  color: red;
+}
+
+#gray {
+  background-color: gray;
+}
+
+body {
+  background-color: pink;
+}

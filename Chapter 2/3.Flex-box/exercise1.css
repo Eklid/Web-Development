@@ -1,0 +1,98 @@
+* {
+  color: white;
+}
+
+#navbar {
+  text-decoration-color: cadetblue;
+  background-color: silver;
+  padding: 10px 5px;
+  color: blueviolet;
+  display: flex;
+  justify-content: space-between;
+}
+#navbar-1 {
+  text-decoration-color: cadetblue;
+  background-color: lightslategray;
+  padding: 10px 5px;
+  color: bisque;
+  margin-top: 120px;
+  display: flex;
+  justify-content: space-between;
+}
+
+#navbar-2 {
+  text-decoration-color: cadetblue;
+  color: aqua;
+  background-color: coral;
+  padding: 10px 5px;
+  margin-top: 120px;
+  justify-content: center;
+  display: flex;
+}
+
+#navbar-2 * {
+  margin: 5px;
+}
+
+#navbar-3 {
+  text-decoration-color: cadetblue;
+  color: cornflowerblue;
+  padding: 10px 5px;
+  background-color: dimgray;
+  margin-top: 120px;
+  justify-content: space-between;
+  display: flex;
+}
+.pink-group {
+  text-decoration: burlywood;
+  background-color: cadetblue;
+  border-radius: 15px;
+  padding: 7px;
+}
+.yellow-group {
+  text-decoration: none;
+
+  text-decoration-color: cadetblue;
+  background-color: plum;
+  border-radius: 15px;
+  padding: 7px;
+}
+.red-group {
+  text-decoration: none;
+  padding: 7px;
+
+  text-decoration-color: cadetblue;
+  background-color: rosybrown;
+  border-radius: 15px;
+}
+
+.grey-group {
+  text-decoration: none;
+  text-decoration-color: cadetblue;
+  background-color: pink;
+  border-radius: 15px;
+  padding: 7px;
+}
+
+.brand {
+  padding: 7px;
+  text-decoration-color: cadetblue;
+  border-radius: 15px;
+  background-color: cadetblue;
+}
+
+.contact {
+  padding: 7px;
+
+  text-decoration: none;
+  text-decoration: hotpink;
+  background-color: burlywood;
+  border-radius: 15px;
+}
+
+.links {
+  display: flex;
+}
+.links * {
+  margin: 5px;
+}

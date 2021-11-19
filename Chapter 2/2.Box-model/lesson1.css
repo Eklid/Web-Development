@@ -1,0 +1,23 @@
+a {
+  /* background-color: red;
+  padding: 15px;
+  margin: 5px;
+
+  border: 2px solid black;
+
+  border-radius: 20px;   /*perthyen border + background*/
+  /*
+  background-color: red; 
+  */
+
+  border: 2px solid blue;
+  text-decoration: none;
+  color: white;
+  /* padding: 5px; */ /*top, right,bottom,left*/
+  padding: 7px 30px; /*[top,bottom] [right,left]*/
+  /* margin: 5px; */
+  /* border-radius: 15px; */ /*cdo cep*/
+  border-bottom-left-radius: 15px;
+  border-top-right-radius: 15px;
+  background-color: steelblue;
+}
