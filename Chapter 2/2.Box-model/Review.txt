@@ -6,3 +6,6 @@ Spacing gives the user a better and calm and relaxing view of the content(permba
     1)padding (per te shtuar hapesire brenda kornizes se elementit)
     2)margin (per te shtuar hapesire jashte kornizes se elemenit)
     
+
+
+    
