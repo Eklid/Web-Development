@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 100vw;
+  height: 10vh;
+  background-color: antiquewhite;
+  /* border: 2px solid red; */
+  padding: 20px;
+}
+
+#btn-1,
+#btn-2,
+#btn-3,
+#btn-4 {
+  text-decoration: none;
+  /* border: 2px solid green; */
+  background-color: coral;
+  color: white;
+  padding: 5px 20px;
+  margin: 0px 10px;
+}

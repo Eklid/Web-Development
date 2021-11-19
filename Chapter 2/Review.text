@@ -23,6 +23,3 @@ CSS
     3.Pozicionojm elementet horizontalisht{ justify-content}
     4.Grupojm elementet me sub-container
     5.Sub-containet stilohet me {display:flex;}
-6
-
-
