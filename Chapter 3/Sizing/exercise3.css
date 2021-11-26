@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#toolbar {
+  display: flex;
+  width: 100vw;
+  height: 10vh;
+  background-color: lightcoral;
+  /* border: 5px solid green; */
+}
+
+#main-area {
+  display: flex;
+  width: 100vw;
+  height: 90vh;
+  background-color: lightgreen;
+}
+
+#logo {
+  width: 20%;
+  height: 100%;
+  background-color: gray;
+}
+
+#tools {
+  width: 80%;
+  height: 100%;
+  background-color: lightseagreen;
+}
+
+#sidebar {
+  width: 20%;
+  height: 100%;
+  background-color: lightseagreen;
+}
+
+#dashboard {
+  width: 80%;
+  height: 100%;
+  background-color: grey;
+}

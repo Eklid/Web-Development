@@ -20,8 +20,11 @@
         <div> <h1> <p>
         
 2.Sizing units(njesite e matjes)
-    a. pixel (px)
-    b. percentage(%)
-        b1.duhet qe elementi siper(parent) te kete width/height
-    c. vw/vh (view Width/ view Height)
-        c1. gjeresia ose gjatesia e diraters se google chromit
+    [njesi e pavarur]
+    a. pixel (px)       
+    
+    [njesi te varura]
+    b. vw/vh (view Width/ view Height) 
+        b1. gjeresia ose gjatesia e diraters se google chromit
+    c. percentage(%)
+        c1.duhet qe elementi siper(parent) te kete width/height
