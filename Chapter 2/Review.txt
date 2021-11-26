@@ -10,16 +10,19 @@ CSS
     3.By id(for only 1 element)
 
 
-2.CSS Box-Model(Spacing)
+2.CSS Box-Model(Spacing/Hapsire)
 
     1.Padding (for spacing inside the border)
     2.Margin(for spacing outside the border)
 
 
-3.CSS Flex-Box(Arrangment)
+3.CSS Flex-Box(Arrangment/Pozicionim)
 
     1.Krijojm nje container(<div>)
-    2.Stilojm conatiner me { display:flex;}
-    3.Pozicionojm elementet horizontalisht{ justify-content}
+    2.Stilojm conatiner me {display:flex;}
+
+    3.Pozicionojm elementet horizontalisht
+        { justify-content: flex-start/center/flex-end/space-between/space-around}
+        
     4.Grupojm elementet me sub-container
     5.Sub-containet stilohet me {display:flex;}
