@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+
+  /* Majtas-djathtas */
+  /* justify-content: flex-end; */
+  /* Lart-Posht */
+  /* align-items: center; */
+
+  /* Majtas-djathtas */
+  align-items: flex-end;
+  /* Lart-Posht */
+  justify-content: center;
+
+  width: 100vw;
+  height: 100vh;
+  background-color: royalblue;
+  color: white;
+}
+
+h1 {
+  padding: 10px 10px;
+  margin: 10px 10px;
+}

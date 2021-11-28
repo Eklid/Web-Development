@@ -42,3 +42,42 @@
   height: 100%;
   background-color: grey;
 }
+
+#dashboard-tools {
+  width: 100%;
+  height: 10%;
+  background-color: blue;
+}
+
+#dashboard-cards {
+  display: flex;
+  width: 100%;
+  height: 30%;
+  /* background-color: burlywood; */
+  justify-content: center;
+  align-items: center;
+  padding: 2%;
+}
+
+.dashboard-card {
+  width: 23%;
+  height: 100%;
+  background-color: green;
+  margin: 0 1%;
+}
+
+#dashboard-charts {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 60%;
+  /* background-color: khaki; */
+}
+
+.dashboard-chart {
+  margin: 0 2%;
+  width: 46%;
+  height: 95%;
+  background-color: red;
+}
