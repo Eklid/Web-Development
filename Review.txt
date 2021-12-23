@@ -1,0 +1,57 @@
+CSS
+
+    1. Krijojm 1 file css(styles.css)
+    2. Lidhim html me css(<link ref="stylesheet" href="styles.css">)
+
+1. CSS Selectors
+
+    1.By tag`s name(for all tags with this name)
+    2.By class(for all the members of the class)
+    3.By id(for only 1 element)
+	
+	Combinated
+    4. By class and tag name
+
+	Selecting State(Gjendje)
+    5. .title:hover{}	
+
+
+2.CSS Box-Model(Spacing/Hapsire)
+
+    1.Padding (for spacing inside the border)
+    2.Margin(for spacing outside the border)
+
+
+3.CSS Flex-Box(Arrangment/Pozicionim)
+
+    1.Krijojm nje container(<div>)
+    2.Stilojm conatiner me {display:flex;}
+
+    3.Pozicionojm elementet horizontalisht
+        { justify-content: flex-start/center/flex-end/space-between/space-around}
+    
+    3.5 Pozicionojm elementet vertikalisht
+        {align-items: flex-start/center/flex-end/space-between/space-around}
+    3.75 Rendisim elementet ne rresht ose kolone
+        {flex-direction: row/column}
+        KUJDES: me ndryshimin e direction ndryshon dhe roli i justify-content dhe align-items
+	justify-content -> vertikalisht
+	 align-items	-> horizontalisht
+        
+    4.Grupojm elementet me sub-container
+    5.Sub-containet stilohet me {display:flex;}
+
+    6. Nese kemi me shume se nje rresht me element shtojme flex-wrap: wrap;
+        qe te kalojne elementet ne rreshtin tjeter
+
+4.Hover Effect: 
+    1.Underline [border-bottom + padding]                     {links}
+    2.Round backgorund [border-radius:50% + padding]          {icon}
+    3.Negative   [border-color=>backgorund-color => color]        {button}
+
+5.Linking    <a href="">   [anchor]
+    1. Link to another website [href="https://www.google.com"]
+    2. Link to another page of our website [href="contact.html"]
+    3. Link to another section of the page [href="#about"]
+
+
